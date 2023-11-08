@@ -1,4 +1,7 @@
 #!/bin/bash
 set -ex
 wget -q -O 2000-vocab.pkl https://www.dropbox.com/scl/fi/fh1jtxp3bznzigz5oz2f3/2000-vocab.pkl?rlkey=tepudka3is00svs2gmmxhtdmx
+wget -q -O 2000-w.npy https://www.dropbox.com/scl/fi/1hbxqcdf1697xl8folnuw/2000-w.npy?rlkey=xintkqs3neas9ame20ndjl101
+wget -q -O 1950-w.npy https://www.dropbox.com/scl/fi/dayokceqiy96ypftkhs4a/1950-w.npy?rlkey=zx9wlfg01cpf9o7p3w1khc18l
+wget -q -O 1950-vocab.pkl https://www.dropbox.com/scl/fi/h99hrga0d6y5j6uxa8c2v/1950-vocab.pkl?rlkey=7bmr39fsjt2sm49wx4wonnfps&dl=0
 
