@@ -1,4 +1,4 @@
 #!/bin/bash
 set -ex
-wget -q -O "2000-vocab.pkl https://www.dropbox.com/scl/fi/fh1jtxp3bznzigz5oz2f3/2000-vocab.pkl?rlkey=tepudka3is00svs2gmmxhtdmx&dl=0"
+wget -q -O 2000-vocab.pkl https://www.dropbox.com/scl/fi/fh1jtxp3bznzigz5oz2f3/2000-vocab.pkl?rlkey=tepudka3is00svs2gmmxhtdmx&dl=0
 
