@@ -1,5 +1,7 @@
 # Project-specific Files
 GoogleNews-vectors-negative300.bin
+*.npy
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
