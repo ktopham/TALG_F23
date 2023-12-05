@@ -4,9 +4,9 @@ wget -q -O 2000-vocab.pkl https://www.dropbox.com/scl/fi/fh1jtxp3bznzigz5oz2f3/2
 wget -q -O 2000-w.npy https://www.dropbox.com/scl/fi/1hbxqcdf1697xl8folnuw/2000-w.npy?rlkey=xintkqs3neas9ame20ndjl101
 wget -q -O 1950-w.npy https://www.dropbox.com/scl/fi/dayokceqiy96ypftkhs4a/1950-w.npy?rlkey=zx9wlfg01cpf9o7p3w1khc18l
 wget -q -O 1950-vocab.pkl https://www.dropbox.com/scl/fi/h99hrga0d6y5j6uxa8c2v/1950-vocab.pkl?rlkey=7bmr39fsjt2sm49wx4wonnfps
-wget -q -O 1810-vocab.pkl https://www.dropbox.com/scl/fi/niuxlbb1mazb038zmnc9v/1810-vocab.pkl?rlkey=1ldsef97yg7sdq97vce1nuzdf&dl=0
-wget -q -O 1810-w.npy https://www.dropbox.com/scl/fi/egfbfokmb335b3e3cya6p/1810-w.npy?rlkey=q2ile32oq3aofl4maq1r9nf9t&dl=0
-wget -q -O 1850-vocab.pkl https://www.dropbox.com/scl/fi/o6ydu0poj5ih0xvkxjguf/1850-vocab.pkl?rlkey=8apobgfbx9jo9j5hyniu3s75o&dl=0
-wget -q -O 1850-w.npy https://www.dropbox.com/scl/fi/zwqqtalf1pl1kv6pbl66h/1850-w.npy?rlkey=5kz75nv8tajgvhsxeo7bapadc&dl=0
-wget -q -O 1900-vocab.pkl https://www.dropbox.com/scl/fi/ud5z4db300b3o5ua5s8q2/1900-vocab.pkl?rlkey=bmlp3ivacl63meh3fwe1ijazn&dl=0
-wget -q -O 1900-w.npy https://www.dropbox.com/scl/fi/kt73pfto7l5dpnw4wguw9/1900-w.npy?rlkey=00hhk0657xtgrw44n7h8aqld7&dl=0
+wget -q -O 1810-vocab.pkl https://www.dropbox.com/scl/fi/niuxlbb1mazb038zmnc9v/1810-vocab.pkl?rlkey=1ldsef97yg7sdq97vce1nuzdf
+wget -q -O 1810-w.npy https://www.dropbox.com/scl/fi/egfbfokmb335b3e3cya6p/1810-w.npy?rlkey=q2ile32oq3aofl4maq1r9nf9t
+wget -q -O 1850-vocab.pkl https://www.dropbox.com/scl/fi/o6ydu0poj5ih0xvkxjguf/1850-vocab.pkl?rlkey=8apobgfbx9jo9j5hyniu3s75o
+wget -q -O 1850-w.npy https://www.dropbox.com/scl/fi/zwqqtalf1pl1kv6pbl66h/1850-w.npy?rlkey=5kz75nv8tajgvhsxeo7bapadc
+wget -q -O 1900-vocab.pkl https://www.dropbox.com/scl/fi/ud5z4db300b3o5ua5s8q2/1900-vocab.pkl?rlkey=bmlp3ivacl63meh3fwe1ijazn
+wget -q -O 1900-w.npy https://www.dropbox.com/scl/fi/kt73pfto7l5dpnw4wguw9/1900-w.npy?rlkey=00hhk0657xtgrw44n7h8aqld7
