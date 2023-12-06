@@ -4,3 +4,4 @@ beautifulsoup4
 gensim
 numpy
 pandas
+nltk
