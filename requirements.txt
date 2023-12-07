@@ -5,3 +5,4 @@ gensim
 numpy
 pandas
 nltk
+plotly
